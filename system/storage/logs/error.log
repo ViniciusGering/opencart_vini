@@ -1,0 +1,8 @@
+2016-10-06 9:46:39 - PHP Notice:  Undefined index: stock_status_id in /Applications/mampstack-5.6.26-2/apache2/htdocs/opencart_vini/admin/model/catalog/product.php on line 4
+2016-10-06 9:46:39 - PHP Notice:  Undefined index: weight_class_id in /Applications/mampstack-5.6.26-2/apache2/htdocs/opencart_vini/admin/model/catalog/product.php on line 4
+2016-10-06 9:46:39 - PHP Notice:  Undefined index: length_class_id in /Applications/mampstack-5.6.26-2/apache2/htdocs/opencart_vini/admin/model/catalog/product.php on line 4
+2016-10-06 9:47:59 - PHP Notice:  Undefined index: stock_status_id in /Applications/mampstack-5.6.26-2/apache2/htdocs/opencart_vini/admin/model/catalog/product.php on line 130
+2016-10-06 9:47:59 - PHP Notice:  Undefined index: weight_class_id in /Applications/mampstack-5.6.26-2/apache2/htdocs/opencart_vini/admin/model/catalog/product.php on line 130
+2016-10-06 9:47:59 - PHP Notice:  Undefined index: length_class_id in /Applications/mampstack-5.6.26-2/apache2/htdocs/opencart_vini/admin/model/catalog/product.php on line 130
+2016-10-06 9:51:26 - PAC: CEP de destino invalido.
+2016-10-06 9:51:26 - SEDEX: CEP de destino invalido.
